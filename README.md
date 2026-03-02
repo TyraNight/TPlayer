@@ -54,7 +54,11 @@ There is no track limit.
 v1.1
 
 Added analog seek using left thumbstick
+
 Added FLAC support
+
 Added OGG Vorbis support
+
 Improved default "no cover" image
+
 Fixed crash when using D-PAD with no music in folder
